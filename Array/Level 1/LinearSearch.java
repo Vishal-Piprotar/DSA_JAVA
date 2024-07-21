@@ -1,4 +1,3 @@
-package Easy;
 public class LinearSearch {
 
     public static int Ls(int arr[],int key){

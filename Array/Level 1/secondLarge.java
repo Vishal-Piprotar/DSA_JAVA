@@ -1,4 +1,3 @@
-package Easy;
 import java.util.Arrays;
 
 public class secondLarge {

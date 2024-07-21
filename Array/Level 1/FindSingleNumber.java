@@ -1,4 +1,3 @@
-package Easy;
 public class FindSingleNumber {
     public static int findSingle(int arr[]){
         int ans=0;

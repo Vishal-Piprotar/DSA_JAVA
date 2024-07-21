@@ -1,4 +1,3 @@
-package Easy;
 public class MaxConsecutiveOnes {
     public static int findMax(int arr[]) {
         int count = 0;

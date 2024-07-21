@@ -1,4 +1,3 @@
-package Easy;
 import java.util.HashMap;
 
 public class LongestSubarrayWithSumK {

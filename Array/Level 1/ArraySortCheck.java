@@ -1,4 +1,4 @@
-package Easy;
+
 public class ArraySortCheck {
     public static boolean isSorted(int arr[]){
         for (int i = 1; i < arr.length; i++) {

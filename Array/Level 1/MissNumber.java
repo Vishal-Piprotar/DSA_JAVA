@@ -1,4 +1,3 @@
-package Easy;
     public class MissNumber {
 
         public static int findMiss(int arr[],int k){

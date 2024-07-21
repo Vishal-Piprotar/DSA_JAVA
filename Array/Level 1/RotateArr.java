@@ -1,4 +1,3 @@
-package Easy;
 public class RotateArr {
     public static void rotate(int arr[], int k) {
         int n = arr.length;
